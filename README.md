@@ -2,4 +2,4 @@
 
 Mobile space themed survival game
 
-Developers: Halit
+Developers: Halit Ozkaya, Ken Whitestone
